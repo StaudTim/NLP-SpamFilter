@@ -33,3 +33,18 @@ $ pip install -r requirements.txt
 ```
 
 ## Result
+
+Basic natural language processing methods were used for the model such as:
+
+- case intensity 
+- stop words
+- stemming
+- laplacian/laplace smoothing
+
+
+The output quality of the naive bayes classifier has the following values:
+
+- Accuracy: 0.92
+- Precision: 0.86
+- Recall: 0.87
+- F1: 0.86
